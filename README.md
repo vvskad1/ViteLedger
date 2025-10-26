@@ -155,6 +155,4 @@ Once backend is running, visit:
 
 Built for Cal Hacks 11.0
 
-## 👥 Team
-
-Your VitaLedger Team
+## 👥 Done by Venkata Sai Krishna Aditya Vatturi
